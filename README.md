@@ -1,4 +1,5 @@
 # Public Projects
+All of the following are personal projects which I wrote for fun/learning, enjoy!
   * [PyPrez](https://github.com/modularizer/pyprez) Run Python in the browser using pyodide => web assembly. Embed runnable python in StackOverflow answers
   * [Online Gameboard](https://modularizer.github.io/gameboard/#quoridor.octopus.p2) "Serverless" application allowing you to play board games with friends online using WebRTC peer-to-peer technology
   * [voiceChatGPT](https://github.com/modularizer/voiceChatGPT) Now outdated, but I gave a voice and speech recognition to ChatGPT using the javascript API about 10 months before OpenAI added their voice chat feature (which is WAY better than what i did)
