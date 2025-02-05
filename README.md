@@ -18,3 +18,6 @@ All of the following are personal projects which I wrote for fun/learning, enjoy
  * [USB Rubber Ducky](https://github.com/modularizer/typy) Made a usb drive which pulls up a rickroll youtube video on your computer when the thumbdrive is plugged in.
  * Personal finance app to track and filter credit card purchases
 
+# All projects
+ https://github.com/modularizer
+
